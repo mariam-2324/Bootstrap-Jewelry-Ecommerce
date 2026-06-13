@@ -106,5 +106,5 @@ This project allowed me to combine creativity with technical implementation whil
 
 As I continue my journey toward becoming a skilled **Generative AI Engineer and Full-Stack Developer**, projects like **PEHNAAWA** help me strengthen my foundation in modern web development and user experience design.
 
-
+**If wanna watch a full video of this website then go for this**
 <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/6df03472-3284-4aa8-9864-15555405dd67"/>Watch here: [YouTube](https://youtu.be/UJPL1OcQNY0)
