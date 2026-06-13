@@ -13,7 +13,7 @@ The entire website is built using the powerful **Bootstrap 5.3 Framework**, allo
 * Interactive navigation links
 * Search and utility icons
 
-### Image Here 🖼️ ![MultifunctionalChatbot](multi-bot.PNG)
+### Image Here 🖼️ ![Multiple-NavBars](multiple-NavBars1.png)
 
 🔹 **Hero Carousel Section**
 
@@ -21,17 +21,22 @@ The entire website is built using the powerful **Bootstrap 5.3 Framework**, allo
 * Promotional banners for luxury jewelry collections
 * Smooth transitions and responsive design
 
+### Image Here 🖼️ ![Hero-Section](CarouselHero1.png)
+
 🔹 **Product Showcase Using Grid System**
 
 * Bootstrap Grid Layout (Rows & Columns)
 * Responsive product alignment
 * Optimized spacing and visual consistency
 
+
 🔹 **Luxury Product Cards**
 
 * Elegant Bootstrap Card Components
 * Product images, titles, descriptions, and pricing details
 * Hover effects for enhanced user engagement
+
+  ### Image Here 🖼️ ![Grid-System](BootstrapCard3.png)
 
 🔹 **Card-Based Collection Sections**
 
@@ -46,11 +51,15 @@ The entire website is built using the powerful **Bootstrap 5.3 Framework**, allo
 * Improved visual storytelling and user experience
 * Added cinematic branding appeal
 
+  ### Image Here 🖼️ ![Backgroud-Video](BootstrapBackVideo6.png)
+
 🔹 **Image Overlay Effects**
 
 * Interactive image overlays
 * Text and call-to-action content displayed on hover
 * Modern luxury e-commerce aesthetics
+
+### Image Here 🖼️ ![Image-Overlay](BootstrapImageOverlay4.png)
 
 🔹 **Infinite Logo/Image Carousel**
 
@@ -58,10 +67,16 @@ The entire website is built using the powerful **Bootstrap 5.3 Framework**, allo
 * Continuous movement of jewelry collections and brand visuals
 * Smooth CSS animations for seamless user interaction
 
+  ### Image Here 🖼️ ![InfiniteCarousel](BootstrapInfiniteSlider5.png)
+
+
 🔹 **Customer Testimonials Section**
 
 * Structured customer review cards
 * Trust-building and social proof elements
+
+### Image Here 🖼️ ![Testimonial-Section](BootstrapTestimonial8.png)
+
 
 🔹 **Professional Footer Design**
 
@@ -69,6 +84,9 @@ The entire website is built using the powerful **Bootstrap 5.3 Framework**, allo
 * Multi-column navigation links
 * Contact and company information
 * Social media integration
+
+### Image Here 🖼️ ![Footer-Section](BootstrapFooter9.png)
+
 
 ### 🚀 Skills Strengthened During This Project
 
@@ -89,5 +107,4 @@ This project allowed me to combine creativity with technical implementation whil
 As I continue my journey toward becoming a skilled **Generative AI Engineer and Full-Stack Developer**, projects like **PEHNAAWA** help me strengthen my foundation in modern web development and user experience design.
 
 
-<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/6df03472-3284-4aa8-9864-15555405dd67" />
-Watch here: [YouTube](https://youtu.be/UJPL1OcQNY0)
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/6df03472-3284-4aa8-9864-15555405dd67"/>Watch here: [YouTube](https://youtu.be/UJPL1OcQNY0)
