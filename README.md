@@ -1,4 +1,4 @@
-# ✨ PEHNAAWA – Luxury Diamond Jewelry E-Commerce Website | MERN Stack Learning Project
+# ✨ PEHNAAWA – Luxury Diamond Jewelry E-Commerce Website | MERN Stack (Bootstrap) Learning Project
 
 I am excited to showcase my newly designed **PEHNAAWA Luxury Diamond Jewelry E-Commerce Website**, a modern and elegant front-end project developed using **HTML5, CSS3, and Bootstrap 5.3**. This project was created to explore how premium jewelry brands present their products through a luxurious digital experience while strengthening my practical skills in responsive web design and front-end development.
 
